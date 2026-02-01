@@ -22,12 +22,3 @@ To use this app, you need a **Cheatslips account** and an **API Token**.
 ## 📖 How to Use Cheats in Eden
 For detailed instructions on how to apply and use cheats within the Eden emulator, please refer to the official documentation:
 - [Eden Official Documentation: Using Cheats](https://evilperson1337.notion.site/Using-Cheats-with-Eden-2b057c2edaf6818fab66c276e2304bb4)
-
----
-
-### 수정 팁:
-1.  **이미지 위치:** 만약 스크린샷을 README 상단보다 아래에 두고 싶으시면 `![Application Screenshot]...` 줄을 원하는 위치로 옮기시면 됩니다.
-2.  **테스트 환경:** 만약 안드로이드에서 주로 테스트하셨다면, "primary environment" 대신 "Android"라고 명시하셔도 좋습니다.
-3.  **파일 경로:** 앞서 알려드린 대로 `(./datas/스크린샷...png)` 처럼 상대 경로를 쓰셔도 깔끔합니다. 
-
-이 포맷이 마음에 드시나요? 추가로 수정하고 싶은 내용이 있으면 말씀해주세요!
