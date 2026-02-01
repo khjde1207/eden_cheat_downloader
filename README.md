@@ -26,11 +26,8 @@ For detailed instructions on how to apply and use cheats within the Eden emulato
 
 
 
-
 ---
-한글 설명을 포함하여, 글로벌 사용자와 한국 사용자가 모두 보기 편하게 **Bilingual(이국어)** 구조로 정리해 드립니다. 이 내용을 그대로 `README.md`에 붙여넣으시면 됩니다.
 
----
 
 
 ### 💡 제작 배경
